@@ -1,0 +1,1 @@
+Lors de l'inscription, on fait un formulaire de création et un formulaire de réinscription
